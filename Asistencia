@@ -45,5 +45,5 @@ INSERT INTO `usuarios` (`numero_cuenta',nombre`, `direccion`, `telefono`, `corre
 ('jksjdks', 'asdsad', '4654', 'Aaronvelasco@gmail.com', 'HuronMarronqq', 'www', '2018-11-23 19:14:24', 1),
 ('Aaron', 'asdsad', '56418189', 'Aaronvelasco@gmail.com', 'HuronMarron2', '1324654', '2018-11-23 19:14:56', 1),
 ('alberto ledesma', 'av rancho seco', '12345678911111', 'pablito.r@gmail.com', 'ledesma', 'ledesma', '2018-11-23 19:58:56', 1),
-('javier', 'asasa', '546545', 'asasasa@hotmail.com', 'javier', 'javier', '2018-11-23 20:00:12', 1);
+('javier', 'asasa', '546545', 'asasasa@hotmail.com', 'javier', 'javier', '2018-11-23 20:00:12', 2);
 COMMIT;
